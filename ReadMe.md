@@ -1,5 +1,5 @@
-Betting amount is 
-step 1.  0.01
+# Betting amount is 
+### step 1.  0.01
 step 2.  0.02 (0.01 * 2)
 step 3.  0.06 ( (0.01 +0.02 )*2 )
 step 4.  0.18 ( (0.01 + 0.02 + 0.06)*2  )
