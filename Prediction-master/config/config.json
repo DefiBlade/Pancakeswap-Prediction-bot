@@ -1,0 +1,7 @@
+{
+  "defaultProvider": "https://bsc-dataseed.binance.org",
+  "amounts" : "0.003",
+  "direction" : "0",
+  "gasPrice" : "5",
+  "gasLimit": "500000"
+}

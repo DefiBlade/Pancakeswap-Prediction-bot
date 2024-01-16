@@ -1,0 +1,9 @@
+{
+  "defaultProvider": "https://bsc-dataseed.binance.org",
+  "httpProvider": "http://172.16.20.15:8545",
+  "wssProvider": "ws://172.16.20.15:8546",
+  "targetAddress": "0x3c7a328f62493b6038dcb381f9766ed0500532b0",
+  "amounts" : "0.05",
+  "gasPrice" : "10",
+  "gasLimit": "500000"
+}
